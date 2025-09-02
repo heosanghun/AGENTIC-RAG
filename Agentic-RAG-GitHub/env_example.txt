@@ -1,0 +1,8 @@
+# OpenAI API 키 설정
+OPENAI_API_KEY=your_openai_api_key_here
+
+# 기타 설정
+OPENAI_MODEL="gpt-4o-mini"
+TEMPERATURE=0
+CHUNK_SIZE=300
+CHUNK_OVERLAP=50
